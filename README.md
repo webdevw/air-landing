@@ -1,4 +1,19 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Use `npm install` or `npm i` to install project
+`npm start` - to go
+1. Created using [this template](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35)
+
+    - [DEMO LINK](https://webdevw.github.io/air-landing/)
+    
+2. This project using BEM structure and technology like:
+- Gulp and Stylelint,
+- HTML ( cross-browsing and valid code)
+- CSS 
+  - flex
+  - grid
+  - modules
+  - responsive technologes  
+- javaScript
+- SCSS
+  - variables
+  - mixins
+  - extends
